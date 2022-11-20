@@ -1,0 +1,28 @@
+{
+  "variants": {
+    "age=0": {
+      "model": "praecantrix:block/chamomile_crop_0"
+    },
+    "age=1": {
+      "model": "praecantrix:block/chamomile_crop_1"
+    },
+    "age=2": {
+      "model": "praecantrix:block/chamomile_crop_2"
+    },
+    "age=3": {
+      "model": "praecantrix:block/chamomile_crop_3"
+    },
+    "age=4": {
+      "model": "praecantrix:block/chamomile_crop_4"
+    },
+    "age=5": {
+      "model": "praecantrix:block/chamomile_crop_5"
+    },
+    "age=6": {
+      "model": "praecantrix:block/chamomile_crop_6"
+    },
+    "age=7": {
+      "model": "praecantrix:block/chamomile_crop_7"
+    }
+  }
+}

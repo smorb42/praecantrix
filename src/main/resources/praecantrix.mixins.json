@@ -1,0 +1,15 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "net.smorb42.praecantrix.mixin",
+  "compatibilityLevel": "JAVA_17",
+  "mixins": [
+   "MobEntityMixin"
+  ],
+  "client": [
+    "PraecantrixMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

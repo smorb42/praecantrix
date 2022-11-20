@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=east": {
+      "model": "praecantrix:block/scarecrow",
+      "y": 180
+    },
+    "facing=north": {
+      "model": "praecantrix:block/scarecrow",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "praecantrix:block/scarecrow",
+      "y": 270
+    },
+    "facing=west": {
+      "model": "praecantrix:block/scarecrow"
+    }
+  }
+}

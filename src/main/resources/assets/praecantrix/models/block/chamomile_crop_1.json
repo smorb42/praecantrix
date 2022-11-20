@@ -1,0 +1,6 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "praecantrix:block/chamomile_crop_1"
+  }
+}
